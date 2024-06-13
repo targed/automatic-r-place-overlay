@@ -1,0 +1,22 @@
+{
+  "faction": "/r/AmericanFlagInPlace",
+  "contact": "https://discord.gg/AFIP",
+  "notifications": "",
+  "templates": [
+    {
+      "name": "r/AFIP Flag",
+      "sources": [
+        "https://i.imgur.com/ZKUCCFq.png"
+      ],
+      "x": 314,
+      "y": 597
+    }
+  ],
+  "whitelist": [
+    {
+      "name": "axo",
+      "url": "https://rentry.org/Faline2023/raw"
+    }
+  ],
+  "blacklist": []
+}
